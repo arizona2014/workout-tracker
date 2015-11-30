@@ -12,3 +12,17 @@ $ npm install
 Then run the app: 
 
 $ node app
+
+
+## Some corrections for Code Magazine article
+
+####Express instalation 
+
+**instead of :** npm install -g express
+**do :** npm install -g express-generator@3
+
+
+
+
+
+
